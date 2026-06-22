@@ -1,4 +1,4 @@
-# Joe Tochka
+# Joe Toch
 
 Software engineer. I build and ship across the stack — web applications, AI-integrated tools, Android, games, and embedded hardware. Selected work is pinned below; everything there is built to run, not just to demo.
 
