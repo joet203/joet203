@@ -20,7 +20,7 @@ OpenAI Assistants API (threaded state, function calling) · DALL·E / gpt-image 
 PostgreSQL (Supabase) · SQLite / better-sqlite3 · NeDB · schema design, migrations, CSV/gzip export
 
 **Mobile — Android**
-Kotlin + Jetpack Compose · foreground services · MediaStore + JobScheduler content triggers · SYSTEM_ALERT_WINDOW overlays · BitmapRegionDecoder · R8 minification · unit-tested geometry
+Kotlin + Jetpack Compose · event-driven background detection · system overlay UIs · memory-efficient image processing · unit-tested core logic · sideload release builds
 
 **Game development**
 Unity 6 / C# · fully procedural audio (sample-level synthesis) · procedural textures (Perlin noise) · procedural geometry · finite-state-machine AI
